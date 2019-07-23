@@ -1,6 +1,3 @@
-## GluChallenge
-
-# **Server Engineering Candidate**
 ## Programming Challenge
 
 
